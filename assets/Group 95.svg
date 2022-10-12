@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="509" viewBox="0 0 1920 509">
+  <g id="Group_95" data-name="Group 95" transform="translate(0 -5915)">
+    <g id="Group_161" data-name="Group 161">
+      <rect id="Rectangle_1115" data-name="Rectangle 1115" width="1920" height="509" transform="translate(0 5915)" fill="#fff" opacity="0.8"/>
+      <text id="Get_30_Off" data-name="Get 30% Off" transform="translate(824 6084)" font-size="48" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Get 30% Off</tspan></text>
+      <text id="Get_30_off_your_first_purchase_by_joining_our_mailing_list_and_receive_some_of_the_best_deals_possible." data-name="Get 30% off your first purchase by joining our mailing list,
+and receive some of the best deals possible." transform="translate(962 6141)" font-size="16" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-189" y="0">Get 30% off your first purchase by joining our mailing list,</tspan><tspan x="-145" y="24">and receive some of the best deals possible.</tspan></text>
+      <g id="Group_94" data-name="Group 94" transform="translate(-0.25 17)">
+        <g id="Rectangle_1113" data-name="Rectangle 1113" transform="translate(637.5 6224)" fill="none" stroke="#616161" stroke-width="1">
+          <rect width="645" height="50" rx="25" stroke="none"/>
+          <rect x="0.5" y="0.5" width="644" height="49" rx="24.5" fill="none"/>
+        </g>
+        <g id="Group_93" data-name="Group 93">
+          <rect id="Rectangle_1114" data-name="Rectangle 1114" width="124" height="50" rx="25" transform="translate(1159 6224)" fill="#f29544"/>
+          <text id="Subscribe" transform="translate(1221 6253)" fill="#fff" font-size="16" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-35" y="0">Subscribe</tspan></text>
+        </g>
+        <text id="Your_Email" data-name="Your Email" transform="translate(708 6253)" fill="#616161" font-size="16" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-35" y="0">Your Email</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
